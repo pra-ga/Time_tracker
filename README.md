@@ -2,6 +2,8 @@
 
 A lightweight, modern desktop time-tracking application built with Python and CustomTkinter. It features a sleek dark-mode interface, a floating always-on-top design, and automatic file logging to keep track of your daily tasks.
 
+<img width="376" height="412" alt="Preview" src="https://github.com/user-attachments/assets/1920150e-e5dd-4188-b0a5-2454171825a7" />
+
 ---
 
 ## ✨ Features
