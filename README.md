@@ -18,9 +18,8 @@ A lightweight, modern desktop time-tracking application built with Python and Cu
 ## 🚀 How to Run
 
 ### Option A: Run the Pre-Compiled `.exe` (Easiest)
-1. Go to the **Releases** section of this repository.
-2. Download the `time_tracker.exe` file.
-3. Double-click the `.exe` to launch the application instantly—no Python installation required!
+1. Download the `time_tracker.exe` file.
+2. Double-click the `.exe` to launch the application instantly—no Python installation required!
 
 ### Option B: Run from Source Code (Python)
 If you want to run or modify the Python script directly, follow these steps:
